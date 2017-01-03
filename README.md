@@ -10,12 +10,21 @@ Basic
 4- Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
 5- Faça um Programa que converta metros para centímetros.
+
 6- Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+
 7- Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
 8- Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+
 9- Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius. C = (5 * (F-32) / 9).
+
 10- Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
-11- Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro do primeiro com metade do segundo . a soma do triplo do primeiro com o terceiro. o terceiro elevado ao cubo. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+11- Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro do primeiro com metade do segundo . a soma do triplo do primeiro com o terceiro. o terceiro elevado ao cubo. 
+
+12- Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
 Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
 Para homens: (72.7*h) - 58
 Para mulheres: (62.1*h) - 44.7 (h = altura)
